@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+qdrant-client
+google-generativeai
+langchain-text-splitters
+markdown
+beautifulsoup4
+tiktoken # for text splitting
+sentence-transformers
